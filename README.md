@@ -10,7 +10,7 @@ Let's take a look at the coil:
 
 <img src="images/armature.png" alt="drawing" width="220"/>
 
-<sup><sub>DC Motor Armature 540 type” by Tudor Barker, CC BY-NC-SA 2.0</sub></sup> 
+<sup><sub>DC Motor Armature 540 type by Tudor Barker, CC BY-NC-SA 2.0</sub></sup> 
 
 When electric current flow within the wire in this component, it generates magnetic force. This is the base principle of electromagnet. In the case of DC motor, the electromagnet poles will interact with the permanent magnet poles and create rotational force. 
 
