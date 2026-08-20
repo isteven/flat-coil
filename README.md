@@ -18,8 +18,6 @@ When electric current flows, it charges the particles in the wire. The charged p
 
 The direction of the magnetic force can be determined using the right-hand rule: the index finger points in the direction of the velocity, the middle finger points in the direction of the magnetic field, and the thumb points in the direction of the force.
 
-Note: in Physics, there are various right-hand rules explaining other things. 
-
 -to be continued-
 
 
